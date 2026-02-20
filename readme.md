@@ -1,17 +1,17 @@
 # 随机数生成器
 
 <p align="center">
-  <img src="app/src/main/res/drawable/ic_dice.xml" width="80" height="80" alt="App Icon">
+  🎲
 </p>
 
 <p align="center">
-  <b>一个非常好用的随机数生成器，基于 Material Design 3 设计，Android 12+，完全开源。</b>
+  <b>一个非常好用的随机数生成器，基于 Material Design 3 设计，Android 13+，完全开源。</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/hpgeyyds/Random_Number"><img src="https://img.shields.io/badge/GitHub-仓库-blue?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/License-GPL%203.0-green?style=flat-square" alt="License"></a>
-  <img src="https://img.shields.io/badge/Android-12+-brightgreen?style=flat-square&logo=android" alt="Android">
+  <img src="https://img.shields.io/badge/Android-13+-brightgreen?style=flat-square&logo=android" alt="Android">
   <img src="https://img.shields.io/badge/Material%20Design%203-支持-6200EE?style=flat-square&logo=material-design" alt="MD3">
 </p>
 

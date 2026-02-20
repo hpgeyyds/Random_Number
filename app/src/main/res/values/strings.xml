@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">随机数生成器</string>
+    
+    <!-- 导航 -->
+    <string name="nav_home">主页</string>
+    <string name="nav_settings">设置</string>
+    <string name="nav_about">关于</string>
+    
+    <!-- 主页 -->
+    <string name="result_label">随机结果</string>
+    <string name="range_label">数值范围</string>
+    <string name="min_hint">最小值</string>
+    <string name="max_hint">最大值</string>
+    <string name="quick_select_label">快速选择</string>
+    <string name="start_button">开始抽取</string>
+    <string name="stop_button">停止抽取</string>
+    <string name="copy_button">复制结果</string>
+    <string name="history_label">历史记录</string>
+    <string name="clear_history">清空</string>
+    <string name="empty_history">暂无历史记录</string>
+    <string name="history_cleared">历史记录已清空</string>
+    
+    <!-- 设置 -->
+    <string name="settings_title">设置</string>
+    <string name="appearance_settings">外观设置</string>
+    <string name="theme_mode_label">主题模式</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="theme_light">浅色模式</string>
+    <string name="theme_dark">深色模式</string>
+    <string name="generation_settings">生成设置</string>
+    <string name="allow_repeat_label">允许重复抽取</string>
+    <string name="allow_repeat_desc">关闭后，同一范围内的数字不会重复出现，直到清空历史记录</string>
+    <string name="quick_ranges_settings">快速取值范围</string>
+    <string name="quick_ranges_desc">自定义主页快速选择按钮的范围，格式：最小值,最大值</string>
+    <string name="quick_range_1_hint">快速范围 1</string>
+    <string name="quick_range_2_hint">快速范围 2</string>
+    <string name="quick_range_3_hint">快速范围 3</string>
+    <string name="quick_range_4_hint">快速范围 4</string>
+    <string name="save_button">保存</string>
+    <string name="reset_button">重置</string>
+    
+    <!-- 提示信息 -->
+    <string name="copied_to_clipboard">已复制到剪贴板</string>
+    <string name="error_empty_input">请输入最小值和最大值</string>
+    <string name="error_invalid_number">请输入有效的数字</string>
+    <string name="error_min_greater_than_max">最小值不能大于最大值</string>
+    <string name="error_data_overflow">数据溢出：数值超出有效范围</string>
+    <string name="error_all_numbers_generated">该范围内所有数字已抽取完毕，请清空历史记录或更改范围</string>
+    <string name="error_no_result">请先生成随机数</string>
+</resources>
